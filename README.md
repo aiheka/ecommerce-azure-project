@@ -20,4 +20,5 @@ python app.py
 ```
 
 ## Project Screenshots
-(Add screenshots here)
+<img width="1920" height="1080" alt="cart" src="https://github.com/user-attachments/assets/522b97bc-dd3b-4710-a18b-276e29f8e08e" />
+
